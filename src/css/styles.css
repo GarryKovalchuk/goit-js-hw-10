@@ -11,10 +11,14 @@ body {
 
 .loader {
   font-size: 25px;
+  color: #7272d3;
+  margin: 30px 30px;
+}
+.error {
+  font-size: 25px;
   color: #ff3d00;
   margin: 30px 30px;
 }
-
 .load-logo {
   width: 48px;
   height: 48px;
@@ -31,7 +35,7 @@ body {
   position: absolute;
   left: 50%;
   top: 0;
-  background: #ff3d00;
+  background: #7272d3;
   width: 3px;
   height: 24px;
   transform: translateX(-50%);
@@ -60,6 +64,6 @@ body {
 }
 
 .js-cat-description {
-  max-width: 1200px;
+  max-width: 600px;
   margin: 0 auto;
 }
