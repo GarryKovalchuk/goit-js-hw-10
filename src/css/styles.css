@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(239, 247, 241);
+  background-color: rgb(222, 231, 245);
 }
 
 .breed-select {
@@ -11,7 +11,7 @@ body {
 
 .loader {
   font-size: 30px;
-  color: #16ad4de0;
+  color: #ff3d00;
   margin: 20px 20px;
 }
 
